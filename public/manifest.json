@@ -1,0 +1,21 @@
+{
+  "name": "AntojoMix - Licuadora de Antojos",
+  "short_name": "AntojoMix",
+  "description": "Tu licuadora de antojos para decidir qué comer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF9",
+  "theme_color": "#F472B6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle", "utilities"],
+  "lang": "es",
+  "dir": "ltr"
+}

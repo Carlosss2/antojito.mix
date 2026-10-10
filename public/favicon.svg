@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F472B6"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="liquid" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FDE047"/>
+      <stop offset="100%" style="stop-color:#FDA4AF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="64" fill="url(#bg)"/>
+  <path d="M128 48 L104 120 Q100 140 128 152 Q156 140 152 120 L128 48 Z" fill="url(#liquid)" opacity="0.9"/>
+  <path d="M104 120 Q110 130 128 136 Q146 130 152 120" fill="none" stroke="#FFFDF9" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  <circle cx="128" cy="100" r="16" fill="#FFFDF9" opacity="0.3"/>
+  <circle cx="108" cy="92" r="8" fill="#FFFDF9" opacity="0.2"/>
+  <circle cx="148" cy="92" r="8" fill="#FFFDF9" opacity="0.2"/>
+  <ellipse cx="128" cy="168" rx="48" ry="12" fill="#FFFDF9" opacity="0.15"/>
+  <path d="M80 128 Q100 115 128 120 Q156 115 176 128" fill="none" stroke="#FFFDF9" stroke-width="3" stroke-linecap="round" opacity="0.3"/>
+</svg>
